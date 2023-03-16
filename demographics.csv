@@ -1,0 +1,1001 @@
+city,country,year,population
+Bordeaux,France,2007,117207.08
+Donghai,China,1995,144931.12
+Malé Svatoňovice,Czech Republic,1991,66292.14
+Bangkok,Thailand,1997,45347.02
+Babakankadu,Indonesia,2006,135967.3
+Yunfu,China,2005,146108.02
+Hisya,Syria,2005,69758.13
+Torre,Portugal,1995,37739.14
+Hongshi,China,2004,59558.12
+Igreja,Portugal,1998,78151.85
+Cimo de Vila,Portugal,2001,28159.33
+Pavino,Russia,2001,74478.29
+La Montañita,Colombia,1995,131269.77
+Fonteleite,Portugal,2000,111010.59
+Yumbo,Colombia,1987,81317.23
+Pandaan,Indonesia,2012,59966.54
+Kihniö,Finland,2005,52926.18
+Ngroto,Indonesia,1991,32245.14
+Wau,Papua New Guinea,2002,89018.72
+Hamhŭng,North Korea,2010,82774.9
+Tanumshede,Sweden,1997,65585.48
+Balabac,Philippines,2000,69036.47
+San Miguel Chicaj,Guatemala,2008,42091.35
+Sabadell,Spain,2011,18539.14
+Cigagade,Indonesia,2013,143474.87
+Horokhiv,Ukraine,2011,101661.05
+Chagoda,Russia,1992,132553.06
+Baltimore,United States,2002,137598.86
+Mataquescuintla,Guatemala,1992,82991.06
+Meikeng,China,2012,67135.45
+Bang Ban,Thailand,2011,126868.46
+Las Lajas,Argentina,2002,140276.02
+Chantilly,France,1988,128687.4
+Karangbungur,Indonesia,2008,109795.07
+Düsseldorf,Germany,2011,105890.9
+Świeradów-Zdrój,Poland,2012,133776.05
+Buraen,Indonesia,1992,117699.84
+Pardesiyya,Israel,2006,86814.82
+Spytkowice,Poland,2002,104128.43
+Jarada,Indonesia,1991,143571.63
+Kadujangkung,Indonesia,1995,22363.18
+Rosario,Philippines,2002,98252.76
+Nesebar,Bulgaria,2002,11872.43
+Andahuaylas,Peru,2007,94171.5
+Las Trojes,Honduras,1985,26243.67
+Maoping,China,2010,86463.53
+Al Miqdādīyah,Iraq,2012,83197.66
+Kekeran,Indonesia,2004,51052.62
+Santa Maria,Mexico,2012,73071.91
+Mpanda,Tanzania,2009,37687.6
+Kapinango,Indonesia,1966,141573.72
+Kant,Kyrgyzstan,1992,117674.57
+Cové,Benin,2007,49336.57
+Metsemotlhaba,Botswana,2005,84217.67
+Barreirinhas,Brazil,2010,148291.51
+Adamstown,Pitcairn,2002,45289.21
+Zamostochcha,Belarus,2006,117424.13
+Balakhninskiy,Russia,2008,50420.25
+Ibabang Tayuman,Philippines,1984,95958.32
+Le Mans,France,1985,42470.79
+Tha Luang,Thailand,2007,32592.6
+Merdeka,Indonesia,2004,77871.71
+Fantan,Armenia,1995,11652.69
+Pridonskoy,Russia,2003,105064.14
+Cibuah,Indonesia,2006,149480.0
+Londiani,Kenya,2004,62817.16
+Bonao,Dominican Republic,2004,98381.66
+Agualva de Cima,Portugal,2000,117259.09
+Rio de Janeiro,Brazil,2007,43737.38
+Sumbe,Angola,2008,13353.76
+San José de las Lajas,Cuba,2008,78146.43
+Grand Rapids,United States,1997,106774.51
+Quốc Oai,Vietnam,1993,62505.56
+Fulu,China,2004,60284.37
+Ciekek,Indonesia,1997,66044.23
+Mayo,Philippines,2005,44409.31
+Kasui,Indonesia,1997,62189.95
+Paciran,Indonesia,1997,88684.53
+Malapaubhara,Indonesia,2008,82160.3
+Baturinggit Kaja,Indonesia,1984,94171.57
+Vitrolles,France,2008,42593.46
+Kosonsoy Shahri,Uzbekistan,1998,32148.45
+Diaoling,China,2005,114197.86
+Trzcińsko Zdrój,Poland,1989,24354.36
+Espírito Santo do Pinhal,Brazil,1992,95922.46
+Lae,Marshall Islands,2005,123851.89
+Xintun,China,1994,136043.48
+Shancheng,China,2003,144107.99
+Raciążek,Poland,1965,23687.79
+Jankowice,Poland,2000,71749.94
+Baoquanshan,China,1992,119943.03
+Primorskiy,Russia,1997,43238.39
+Shalakusha,Russia,2005,113258.11
+Kisai,Japan,1994,41412.71
+Calape,Philippines,1989,34223.75
+Kawasaki,Japan,2009,33337.56
+Pulopaya,Indonesia,1990,63521.92
+Seongnam-si,South Korea,2003,105927.37
+Nato,Philippines,1997,46192.77
+Batagay-Alyta,Russia,1999,110057.04
+Santa Rosa de Cabal,Colombia,2008,86498.8
+Halmstad,Sweden,2011,113243.11
+Rogachëvo,Russia,1997,36843.91
+Cibeuti,Indonesia,1996,53158.69
+Jianjiang,China,1989,123468.16
+Yinhedahan’er,China,2007,117679.62
+Liebu,China,1992,110131.45
+Socorro,Philippines,2006,22783.84
+Lingshan,China,2003,112609.11
+Áyios Nikólaos,Greece,2007,90385.02
+Jianshan,China,1994,25064.89
+Tokorozawa,Japan,1995,148098.6
+Kuliyapitiya,Sri Lanka,2003,149244.07
+Shiyang,China,1993,137937.44
+Lanigan,Canada,2001,146985.73
+Belén de Escobar,Argentina,1999,89833.78
+Kebon,Indonesia,1962,134039.72
+Tagapul-an,Philippines,1992,52992.96
+Roubaix,France,1993,35918.63
+Mvomero,Tanzania,1990,146602.24
+Ferraria,Portugal,1999,13111.9
+Tash-Kumyr,Kyrgyzstan,2004,137756.03
+Huangban,China,1984,28141.0
+Pekijing,Indonesia,2009,62702.93
+Bizana,South Africa,1996,84401.89
+Qingyun,China,2000,104426.42
+Balta,Ukraine,2005,75113.65
+Erie,United States,2011,62142.61
+Kastélli,Greece,2012,137400.89
+Dzel,Mongolia,2007,135944.14
+Laikit,Indonesia,2003,29337.36
+Robatal,Indonesia,1995,147680.64
+Bogoroditsk,Russia,1996,121874.48
+Río Segundo,Argentina,2003,44952.13
+Naukot,Pakistan,1994,134059.52
+Camangcamang,Philippines,2011,58956.31
+Itabirito,Brazil,2001,135561.41
+Besançon,France,2010,77556.41
+Gujiang,China,2001,142857.18
+Mankono,Ivory Coast,1999,93992.57
+Khovaling,Tajikistan,1995,136498.96
+Kundung,Indonesia,2007,15471.86
+Melgar,Colombia,1999,13444.14
+Soroti,Uganda,1997,112793.94
+Fagersta,Sweden,2001,133172.4
+Sorodot,Indonesia,2004,91185.47
+Kujang-ŭp,North Korea,1964,87075.06
+Carlsbad,United States,2011,110466.12
+Upig,Philippines,1989,142620.13
+Kurikka,Finland,2011,20471.67
+Chicoana,Argentina,2008,134388.39
+Xiaqiao,China,2008,84650.03
+Lucapa,Angola,2010,73620.34
+Linköping,Sweden,2009,127075.51
+Santa Maria,Mexico,2010,55893.82
+Simo,Finland,1994,73192.6
+Pancalan,Indonesia,2006,123697.87
+Zarumilla,Peru,1988,46082.57
+Odawara,Japan,2009,106228.88
+Chixi,China,1992,67830.66
+El Espino,Panama,2004,108076.12
+Horad Barysaw,Belarus,2006,121907.11
+Weiyang,China,2008,32189.37
+Acobambilla,Peru,1999,144215.05
+Port Moody,Canada,1992,67351.15
+Shar’ya,Russia,2011,139112.08
+Agogo,Ghana,2006,137780.44
+Chenfang,China,1986,81828.72
+Houston,United States,1993,101725.6
+Mulyosari,Indonesia,1995,10370.32
+Jiachuan,China,2009,15873.47
+Chatian,China,1984,131867.66
+Liuzuo,China,1968,41539.87
+Pitangui,Brazil,2007,96763.06
+Sagaing,Myanmar,1993,107216.95
+Baddomalhi,Pakistan,1988,142761.67
+Lalukoen Dua,Indonesia,2001,94141.54
+Cikadondongdesa,Indonesia,2003,53447.89
+Lemenhe,Portugal,2006,111228.68
+Bakovci,Slovenia,2011,12719.92
+Ararat,Armenia,2004,46097.11
+Yucheng,China,1993,131925.76
+Le Mans,France,2003,89032.7
+Penamacor,Portugal,1992,148777.12
+Susapaya,Peru,2009,120921.66
+Baquero Norte,Philippines,1992,142303.44
+Taounate,Morocco,2001,102760.51
+Les Cèdres,Canada,1985,32794.88
+Shilong,China,1995,29486.39
+Rukem,Indonesia,1990,46162.59
+Sugihan,Indonesia,2010,133287.25
+Sabaneta,Venezuela,1996,45153.27
+Staroyur’yevo,Russia,1994,138784.32
+Shiziling,China,2012,143051.92
+Biharamulo,Tanzania,2006,111794.77
+Buket Teukuh,Indonesia,1998,123314.65
+Luleå,Sweden,2007,132126.53
+Smarhon’,Belarus,2008,140343.94
+Ciepielów,Poland,1993,130364.43
+Torez,Ukraine,1997,58189.89
+Quwaysinā,Egypt,2000,96978.93
+Ciudad Sandino,Nicaragua,2009,130962.57
+Tongouson,Philippines,2012,78758.83
+Jalapa,Nicaragua,1987,144544.46
+Uva,Russia,2007,83081.16
+Balma,France,2003,124637.34
+Santa Lucia,Philippines,2008,139899.37
+Mahaba,Philippines,2005,134961.49
+Lebak,Indonesia,1997,47336.08
+Montaigu,France,1996,46237.79
+Dongzaogang,China,2006,62085.2
+Nicolas Bravo,Mexico,2002,31809.98
+Luoyang,China,1998,86922.1
+Mafang,China,2006,43629.57
+Astghadzor,Armenia,1988,55961.82
+Laojieji,China,2013,112000.95
+Tinambacan,Philippines,2008,34095.63
+Lindesberg,Sweden,1987,68554.47
+Guhuai,China,1965,91021.53
+Guanba,China,1986,48188.9
+Marseille,France,1981,43310.75
+Malabar,Indonesia,1998,24585.88
+Batulawang,Indonesia,2012,18599.37
+Ledeunu,Indonesia,2005,44821.11
+Recife,Brazil,2010,125251.78
+Alcaldedíaz,Panama,1997,117219.28
+Mariental,Namibia,1989,113690.23
+Zhongchao,China,1998,69420.15
+Richmond,South Africa,1993,105366.82
+Kétou,Benin,2012,82531.06
+Batakte,Indonesia,2010,60270.7
+Sabugo,Portugal,2005,134587.12
+Góra,Poland,2012,53076.93
+Parakou,Benin,2003,90483.66
+Oslo,Norway,2004,103048.82
+Cisiih,Indonesia,2009,124376.62
+Margate,South Africa,2010,72079.29
+Shalya,Russia,2010,10273.63
+Ar Rubū‘,Yemen,2000,107863.82
+Fangfan,China,1994,79000.68
+Plessisville,Canada,2001,83281.0
+Dimitrov,Armenia,2001,26646.21
+Yunxi,China,1990,46513.0
+Torzhok,Russia,2012,117654.39
+Novorossiysk,Russia,1986,64003.26
+Mardīān,Afghanistan,2010,137504.62
+Leskolovo,Russia,2000,128929.66
+Kolokani,Mali,2002,103441.72
+Lišov,Czech Republic,1996,40318.63
+Guiping,China,1996,67273.78
+Voorburg,Netherlands,2004,134148.05
+Bantay,Philippines,2008,134065.53
+Acobamba,Peru,1990,18407.03
+Malasin,Philippines,1997,12397.6
+Aconibe,Equatorial Guinea,2005,131297.51
+Báguanos,Cuba,2011,51002.11
+Lebak,Indonesia,2013,39233.12
+Wang Noi,Thailand,1964,13356.83
+Valença,Brazil,1998,81467.64
+Yongdeng Chengguanzhen,China,2013,92866.29
+Shankill,Ireland,1993,69548.95
+Skövde,Sweden,1999,82971.86
+Fulu,China,1995,105642.59
+Shouxihu,China,1986,131981.88
+Carora,Venezuela,2004,112505.16
+Shaxi,China,2007,147953.59
+Rufino,Argentina,2001,82492.54
+Rivadavia,Argentina,1999,128346.07
+Cisewu,Indonesia,2002,123425.5
+Pa Mok,Thailand,1992,14182.47
+Tahara,Japan,2012,93732.96
+Nkhotakota,Malawi,1977,67648.87
+Gafanha da Encarnação,Portugal,1989,75417.64
+Prochnookopskaya,Russia,1995,53666.96
+Gonzalo Pizarro,Ecuador,2007,120068.53
+Anserma,Colombia,2004,129203.2
+Fès,Morocco,2009,140314.2
+Zhongxian,China,2006,96926.65
+London,United Kingdom,2005,52360.0
+Binhe,China,1998,114433.41
+Chyhyryn,Ukraine,2005,101265.14
+Qili,China,2001,142980.04
+Kashiwazaki,Japan,2006,107520.57
+Karangsari,Indonesia,2004,104644.47
+Mairinque,Brazil,2012,81176.62
+Shabo,Ukraine,2011,108872.26
+Dupi,China,2011,34540.09
+Burgos,Philippines,2000,67655.95
+Johor Bahru,Malaysia,2003,135338.79
+Gushui,China,2009,88642.79
+Liutangting,China,2010,134952.45
+Talldaww,Syria,2009,140834.59
+Gostivar,Macedonia,1992,126539.55
+Kopstal,Luxembourg,2010,117679.88
+Hroznětín,Czech Republic,2010,102252.23
+Gengwan,China,1996,93236.9
+Tô Hạp,Vietnam,2005,62622.76
+Qaffīn,Palestinian Territory,2006,33396.98
+Libu,China,2005,75996.4
+Satis,Russia,1988,18654.32
+Mattawa,Canada,2007,42057.2
+Guolemude,China,2006,142746.91
+New Pandanon,Philippines,2001,140873.62
+Colmar,France,2004,91090.89
+San Diego,Colombia,1996,117886.45
+Sindangsari,Indonesia,1988,28449.92
+Wolofeo,Indonesia,1992,53530.04
+Singaraja,Indonesia,1989,135033.89
+Baliton,Philippines,1993,111819.4
+Youxi,China,2009,41447.16
+Ferreira do Zêzere,Portugal,1996,112284.42
+Tawali,Indonesia,1994,55062.16
+Cabean,Indonesia,2009,143351.74
+Jingzhou,China,2011,13442.67
+La Libertad,Nicaragua,2009,108678.39
+Nanae,Japan,2004,136155.34
+Rossosh’,Russia,1995,63893.96
+Munjungan,Indonesia,1988,98094.88
+Talangnan,Philippines,2004,142588.31
+Paris La Défense,France,2007,148337.55
+Huangyang,China,2006,38251.68
+Qingzhou,China,2012,108749.24
+Baluk,Indonesia,1991,134496.99
+Iporá,Brazil,1993,91685.53
+Lamarosa,Portugal,2004,46511.65
+Gumaus,Philippines,2002,107163.15
+Usman’,Russia,1987,78182.51
+Pécs,Hungary,2009,134764.26
+Nykarleby,Finland,2002,16775.94
+Debrecen,Hungary,2003,67718.62
+Zerok-Alakadari,Afghanistan,1991,122428.1
+Orlando,United States,2004,133662.53
+Tilburg,Netherlands,1988,88174.51
+Dniprodzerzhyns’k,Ukraine,1998,105876.3
+Bełsznica,Poland,2003,98431.51
+Presidente Dutra,Brazil,2004,71337.97
+Nianqiao,China,1992,75240.24
+Nowa Góra,Poland,2012,38604.96
+Capim Grosso,Brazil,2006,104655.94
+Okinawa Número Uno,Bolivia,2011,103034.87
+Namyang-dong,North Korea,1993,129146.74
+Hopetown,South Africa,1995,36038.89
+Hanušovice,Czech Republic,2002,137596.44
+Fenghua,China,1999,83941.78
+Guihulñgan,Philippines,1979,45248.67
+Antsiranana,Madagascar,2009,89659.4
+Qiashui,China,1999,147122.07
+Baitu,China,1993,113372.96
+Cimahi,Indonesia,1991,42412.44
+Dobříš,Czech Republic,1997,35787.21
+Venlo,Netherlands,2008,35175.85
+Bielawy,Poland,2008,14982.34
+Neglasari,Indonesia,1995,116552.69
+Taibai,China,1996,96927.79
+Affery,Ivory Coast,1987,39565.27
+Tasovčići,Bosnia and Herzegovina,1995,126368.72
+Ojo de Agua,Mexico,2007,65549.02
+Qing’an,China,1996,80085.04
+Al Ḩusayn,Yemen,1995,10818.95
+Dushi,China,2005,15958.42
+Las Palmas,Peru,2012,12560.97
+Buguruslan,Russia,2006,18502.05
+Vespasiano,Brazil,2003,74341.15
+Le Hochet,Mauritius,2009,112981.01
+Sidi Smaïl,Morocco,1995,144687.92
+Dueñas,Philippines,1999,44110.14
+Uthai,Thailand,2000,134814.95
+Zheleznogorsk,Russia,1964,45602.71
+Taitung City,Taiwan,1996,26946.66
+Kezileboyi,China,2011,103554.45
+Oehaunu,Indonesia,1995,112033.12
+Bone South,Philippines,2012,113336.51
+Catalina,Canada,2003,140173.53
+Ban Khok,Thailand,2009,63040.08
+Chagoda,Russia,2007,30270.37
+Shanglu,China,2012,111329.32
+Prigi,Indonesia,1995,145854.11
+Ledeč nad Sázavou,Czech Republic,1998,106152.57
+Shixian,China,1986,93636.94
+Yonggu,China,2002,14590.88
+Encontrados,Venezuela,1995,95296.74
+Regla,Cuba,2006,80733.07
+Tudela,Philippines,2008,50294.56
+Klishkivtsi,Ukraine,2002,140689.04
+Shuangfeng,China,2007,70729.0
+Hufang,China,2008,59871.5
+Santo Domingo,Philippines,2010,55634.7
+Kavadarci,Macedonia,1992,124050.6
+Carmo do Paranaíba,Brazil,2010,51910.79
+Cortes,Philippines,2006,124790.77
+Florencio Varela,Argentina,1985,148395.96
+Velikiy Novgorod,Russia,1992,103398.66
+Gora,Nigeria,2004,75957.44
+Lubu,China,1999,82834.28
+Marigot,Haiti,2004,140377.67
+Louredo,Portugal,1993,107734.1
+Lukou,China,1987,27075.05
+Solnechnyy,Russia,2012,86615.7
+Majia,China,2012,99774.25
+Anna Regina,Guyana,2011,136442.61
+Kawengan,Indonesia,1992,130618.45
+Novohrad-Volyns’kyy,Ukraine,2010,145657.54
+Wangda,China,2007,116187.21
+Filimonovo,Russia,1986,132500.65
+Pasirhuni,Indonesia,1964,28307.1
+Daru Rilwan,Gambia,1995,85016.92
+Songfeng,China,1998,48386.77
+Gangkou,China,2002,69934.56
+Venda,Portugal,2005,29494.33
+Buarcos,Portugal,2012,105794.78
+Kotor,Montenegro,1986,125440.33
+Miłosław,Poland,2013,17784.47
+Trmice,Czech Republic,2011,22688.4
+Rukem,Indonesia,1998,133593.54
+Thị Trấn Nguyên Bình,Vietnam,1993,44253.28
+Erfurt,Germany,1994,75389.75
+Woshui,China,1989,134650.06
+Balky,Ukraine,2001,14068.2
+Ecroignard,Mauritius,1992,66854.01
+Kuroishi,Japan,2006,118707.88
+Tacuatí,Paraguay,1994,111044.4
+Norrköping,Sweden,2008,72665.45
+Gontar,Indonesia,2007,96799.08
+Tianhekou,China,1992,33012.93
+Qiying,China,2005,134909.83
+Vale da Pedra,Portugal,1983,25628.19
+Huang’ao,China,1986,141249.19
+Jablunkov,Czech Republic,1993,122356.33
+Belozërskoye,Russia,1990,51762.83
+Dzüünbulag,Mongolia,2005,133590.34
+El Pardo,Philippines,2008,76591.82
+Pierzchnica,Poland,2011,43624.75
+Wumahe,China,2003,47255.83
+Maying,China,2002,77094.87
+Sapernoye,Russia,1990,37940.8
+Aksakovo,Bulgaria,2012,113955.45
+Bang Kaeo,Thailand,2001,65030.94
+Pukekohe East,New Zealand,2007,100609.04
+Yeşilköy,Turkey,2008,40603.28
+Sampangan,Indonesia,2004,136497.81
+Landskrona,Sweden,1994,107851.92
+Lens,France,1988,126604.1
+Bueng Khong Long,Thailand,1992,36027.28
+Shifang,China,1993,111910.78
+Sidaraja,Indonesia,1998,77581.06
+Sincelejo,Colombia,2000,85512.47
+Dalun,China,2003,15991.98
+Béboto,Chad,1992,14219.48
+Le Mans,France,1995,40977.1
+Pavlovsk,Russia,1988,110725.92
+La Mohammedia,Tunisia,1999,15699.21
+Xingang,China,2001,95597.83
+Prince Albert,Canada,2004,67205.52
+Xinshancun,China,2006,74917.92
+Tudela,Philippines,2010,101167.75
+Yonglong,China,2000,45918.5
+Maonon,Philippines,2001,131105.67
+Saint-Denis,Reunion,2007,146267.83
+Kosaya Gora,Russia,2001,112580.09
+Pangawaren,Indonesia,1994,142334.38
+Yushugou,China,2000,93781.38
+San Jose,Philippines,1997,93962.56
+La Mohammedia,Tunisia,1992,141156.15
+Jablah,Syria,2007,24760.93
+Monastir,Tunisia,2005,39524.15
+Bentiu,South Sudan,2010,56554.62
+Lumby,Canada,2009,53921.68
+Odrinhas,Portugal,1994,138631.78
+Volokolamsk,Russia,2004,140441.63
+Mashan,China,2009,82399.92
+Braga,Portugal,1998,132323.57
+Qiandian,China,2006,116936.13
+Colonia Elía,Argentina,2010,114981.8
+Longhuashan,China,2012,136949.01
+Kushiro,Japan,2004,134895.81
+Zhen’an,China,2000,21842.25
+Malikisi,Kenya,2011,148122.8
+Salerno,Italy,2005,15405.08
+Syntul,Russia,2002,32192.59
+Shilibu,China,2006,73961.94
+Guajará Mirim,Brazil,1981,74359.35
+La Gloria,Mexico,1993,114658.57
+Kediri,Indonesia,2005,70752.39
+Amerta,Indonesia,2002,142212.73
+Angoulême,France,2007,135351.82
+Puerto Barrios,Guatemala,2011,60697.41
+Congonhas,Brazil,2008,14140.76
+Songhae,South Korea,1986,29970.26
+Sindangsari,Indonesia,2009,122030.64
+Yefremov,Russia,2005,112687.09
+Kildare,Ireland,1984,74973.32
+Bengtsfors,Sweden,2007,99971.57
+Pampamarca,Peru,2007,44647.07
+Derbent,Russia,1985,31288.67
+Tobelo,Indonesia,2004,30967.98
+Flin Flon,Canada,1999,124454.13
+Kumlinge,Aland Islands,2006,42304.61
+Ostrzeszów,Poland,1988,132815.95
+Carice,Haiti,2010,89998.76
+Leiden,Netherlands,2009,48721.23
+San José Acatempa,Guatemala,1994,149350.38
+Köping,Sweden,2010,21539.38
+Neuilly-sur-Seine,France,1989,114789.57
+Fatufeto,Indonesia,2012,45216.55
+Sacramento,United States,1996,49952.49
+Kawaguchi,Japan,1990,96220.11
+Ōami,Japan,2006,56835.47
+Kachug,Russia,1968,120853.46
+Dinalongan,Philippines,1998,134081.94
+Sa Bot,Thailand,1993,28900.06
+Alqueidão,Portugal,1994,134601.07
+Troyes,France,1998,97196.73
+Kowang Utara,Indonesia,2012,21959.05
+Blois,France,1995,120615.25
+Brčko,Bosnia and Herzegovina,2002,36245.52
+Paripiranga,Brazil,2009,52017.84
+São José do Rio Pardo,Brazil,2006,106380.77
+Boulsa,Burkina Faso,2011,144178.73
+Quinta,Portugal,1993,83544.15
+Tiền Hải,Vietnam,1948,102616.29
+Rudong,China,1992,125498.15
+Carvalhal,Portugal,1997,50458.73
+Nilanapo,Indonesia,1987,48894.37
+Houk,Micronesia,2008,133323.91
+Targuist,Morocco,1993,60777.83
+Tajerouine,Tunisia,2003,32091.59
+Boé,France,2012,146198.49
+Roissy Charles-de-Gaulle,France,2005,131654.33
+Buracan,Philippines,2005,10695.33
+Jōetsu,Japan,2000,58756.56
+Shikārpur,Pakistan,2006,107949.93
+Ðà Lạt,Vietnam,2006,97667.55
+Sardoal,Portugal,2002,21251.87
+Chenfangji,China,2007,93876.45
+Letpandan,Myanmar,1990,54215.44
+Wenping,China,2002,94129.67
+Kandun,China,2002,36732.71
+Krajanpagowan,Indonesia,2011,14771.42
+Yueyang,China,2003,45619.09
+San Isidro,Mexico,1997,113455.58
+Perjuangan,Indonesia,1961,77567.66
+Kedian,China,1992,12957.6
+Skellefteå,Sweden,1995,50964.94
+Bīr Zayt,Palestinian Territory,2013,77367.18
+Eger,Hungary,2001,140723.76
+Kose,Estonia,2007,58373.92
+Ngrambitan,Indonesia,2002,43236.1
+Ţafas,Syria,2008,29415.53
+Gukovo,Russia,1998,106904.41
+Honghua’erji,China,1995,84211.86
+Ké-Macina,Mali,2008,72192.19
+Sete Cidades,Portugal,2006,49631.73
+Piltown,Ireland,2003,14028.02
+Dasiping,China,2012,94066.37
+Vila de Rei,Portugal,2004,140351.34
+Smara,Western Sahara,2005,81484.04
+Växjö,Sweden,1998,145106.98
+Balinad,Philippines,2005,49170.48
+Feričanci,Croatia,1987,27284.57
+Ivyanyets,Belarus,2000,19294.84
+Lugouqiao,China,1985,125793.99
+Babah Rot,Indonesia,1995,109390.67
+Takahata,Japan,1999,125047.2
+Libas,Philippines,1999,17782.96
+Cauday,Peru,1991,79137.49
+Alegrete,Brazil,1994,29191.6
+Si Racha,Thailand,1997,57202.08
+Las Flores,Mexico,2010,30191.13
+Pjanići,Bosnia and Herzegovina,2006,99376.05
+Derviçian,Albania,2008,117673.49
+Shisui,Japan,2009,23504.43
+Salamá,Honduras,1983,76979.47
+Báguanos,Cuba,1992,74893.13
+Bắc Ninh,Vietnam,2000,69458.4
+Laolong,China,1990,128705.98
+Mombasa,Kenya,2007,10501.69
+Kiboga,Uganda,1989,126525.07
+Velikovechnoye,Russia,1987,85820.22
+Hukvaldy,Czech Republic,1994,144425.89
+Knin,Croatia,2002,113853.85
+Arboga,Sweden,2012,90207.35
+Tetovo,Macedonia,2005,22364.26
+Obiaruku Quarters,Nigeria,2005,116172.7
+Panineungan,Indonesia,1992,106196.64
+Cintra,Argentina,2010,54441.21
+Perreng,Indonesia,2006,110368.48
+Iraray,Philippines,1999,30769.11
+Akron,United States,1998,25436.51
+Majāz al Bāb,Tunisia,1996,92734.78
+Shijiao,China,1987,29428.18
+Ryazan’,Russia,2007,10773.77
+Gandusari,Indonesia,2003,63434.39
+Omaruru,Namibia,2006,76040.23
+Gyumri,Armenia,1999,81535.92
+Ishinomaki,Japan,1969,24884.3
+Changchi,China,1978,64120.86
+Mqabba,Malta,2001,28642.41
+Diadi,Philippines,1999,54432.77
+Qinggou,China,2011,100252.17
+Sumuragung,Indonesia,2003,91784.29
+Tešanj,Bosnia and Herzegovina,2008,70254.34
+Rybczewice,Poland,2011,41518.95
+Atengmelang,Indonesia,1966,76020.95
+Gobernador Ingeniero Valentín Virasoro,Argentina,1959,61721.26
+Tunguang,China,2010,26972.68
+Rustenburg,South Africa,2002,61546.92
+Bicas,Portugal,1996,104155.99
+Novaya Mayna,Russia,2007,60555.3
+Siteía,Greece,1993,40883.59
+Heilongkou,China,2009,94339.87
+Vetluzhskiy,Russia,1992,56082.59
+Gaoxu,China,2001,38459.59
+Seremban,Malaysia,1995,138335.84
+Izvestkovyy,Russia,1993,11935.41
+Lekaj,Albania,1997,149055.15
+Yelkhovka,Russia,2003,45708.84
+Jaguaribe,Brazil,1995,69458.17
+Lijiazui,China,2006,138238.89
+Bengtsfors,Sweden,2009,47016.64
+Monte Caseros,Argentina,1992,22990.45
+Xinxian,China,2003,41573.85
+Wuluquele,China,2003,47878.6
+Singabarong,Indonesia,2004,128830.66
+Pendolo,Indonesia,2009,71189.93
+Ivyanyets,Belarus,2005,20516.63
+Yanzhou,China,1992,64927.15
+Yatsuomachi-higashikumisaka,Japan,1984,73774.67
+Susoh,Indonesia,2009,21711.21
+Bone South,Philippines,2000,109702.51
+Arzila,Portugal,2007,101043.77
+Xumai,China,2008,40281.38
+Vredendal,South Africa,2011,117346.65
+Volkhovskiy,Russia,1998,49014.5
+Sestroretsk,Russia,2009,72168.59
+Bajing,China,1998,124958.46
+Rifeng,China,2003,31314.27
+Hagfors,Sweden,2003,107254.79
+Petaling Jaya,Malaysia,1995,67886.4
+Kalmar,Sweden,2005,121995.01
+Wufeng,China,2001,135471.83
+Luts’k,Ukraine,2010,135913.43
+Zhaocun,China,1994,30827.29
+Hörby,Sweden,2009,51929.58
+Yuta,Palestinian Territory,2004,102199.44
+Norrköping,Sweden,1994,134383.82
+Ripky,Ukraine,1994,72522.43
+Niños Heroes,Mexico,2006,59778.39
+Navashino,Russia,1999,143634.73
+Ino,Japan,2001,137313.32
+Seoul,South Korea,2002,14476.26
+Tarłów,Poland,1992,133736.16
+Las Americas,Mexico,1985,28454.98
+Jamshoro,Pakistan,2005,12515.42
+Birmingham,United States,2012,82198.39
+Baiyin,China,2000,126417.83
+Tiechanggou,China,2009,62296.22
+Putat Lor,Indonesia,2012,68241.51
+Talldaww,Syria,1985,123360.23
+Āstārā,Iran,2005,27683.05
+Gwangtan,South Korea,2009,112784.69
+Ubá,Brazil,1995,76241.57
+Alaghsas,Niger,1994,117490.39
+Renko,Finland,1999,143664.71
+Rey,Iran,1998,145701.7
+Sundbyberg,Sweden,2006,87540.95
+Cañada de Gómez,Argentina,2007,13403.99
+Qulsary,Kazakhstan,1992,39490.07
+Kudirkos Naumiestis,Lithuania,2005,125909.84
+Nnewi,Nigeria,1994,104911.09
+Shaliangzi,China,1992,148175.79
+Carleton-sur-Mer,Canada,2009,48411.03
+Ridder,Kazakhstan,1996,146011.5
+Yixin,China,1992,125097.19
+Chongwen,China,2008,87741.17
+Idhnā,Palestinian Territory,2001,57497.68
+Jarinu,Brazil,1999,116029.59
+Libao,China,1993,57071.36
+Sterlitamak,Russia,2001,73968.44
+Virginia,South Africa,2010,89739.34
+Kobylin,Poland,1976,12015.54
+San Vicente,Costa Rica,1968,37352.68
+Murzuq,Libya,1997,73829.3
+Monticello,United States,1993,35642.77
+Calgary,Canada,1998,116544.89
+Charlottetown,Canada,1984,78035.56
+Novo-Peredelkino,Russia,2000,55853.47
+Dubrovka,Russia,1994,95375.47
+Kristiansand S,Norway,1985,69541.41
+Gagnoa,Ivory Coast,2005,34367.4
+Hongsi,China,1995,31585.81
+Dagang,China,2006,10036.2
+Hofors,Sweden,1996,91174.78
+Napoli,Italy,1968,122903.37
+Libertad,Mexico,2008,89894.35
+Tomioka,Japan,2006,84130.69
+Arroio do Meio,Brazil,2003,42073.46
+Le Mans,France,1997,77837.72
+Ksour Essaf,Tunisia,1992,68159.45
+Tola,Nicaragua,1993,16836.43
+Monte de Trigo,Portugal,2008,100724.13
+Grande Cache,Canada,1999,124699.93
+Ermida,Portugal,1993,32488.25
+Bianba,China,2008,53378.66
+Tignapalan,Philippines,1993,111255.28
+Xinjiang,China,2012,54816.97
+Chahe,China,2007,26866.48
+Lékhaio,Greece,2005,101371.53
+Jinxiu,China,1986,88790.54
+Ciracap,Indonesia,1990,47944.84
+Ciherang,Indonesia,2007,85456.38
+Grijó,Portugal,2007,113536.86
+Odemira,Portugal,1991,120932.16
+Nangkaruka,Indonesia,1977,80587.68
+Rafaela,Argentina,1995,79103.65
+Lyubeshiv,Ukraine,2006,100717.81
+Sokółka,Poland,2007,46237.2
+Bắc Ninh,Vietnam,2010,131939.91
+Piggs Peak,Swaziland,2006,86959.34
+Abastumani,Georgia,1995,52499.65
+Chishtiān Mandi,Pakistan,1992,106256.34
+Kadipaten,Indonesia,2005,113018.44
+Pimenta Bueno,Brazil,2009,74470.22
+Zhajin,China,1992,77367.54
+Yangxiang,China,2012,103570.09
+Luopu,China,2000,64938.73
+Buea,Cameroon,2003,130966.55
+Pola,Philippines,2007,72915.52
+Olo,Indonesia,2003,139224.95
+Trzemeszno,Poland,2008,13256.58
+Drumcondra,Ireland,1998,45464.99
+Mulyo,Indonesia,1994,116999.01
+Clones,Ireland,2004,67463.75
+Qingguang,China,2008,34208.05
+Puan,South Korea,2011,23184.83
+Póvoa,Portugal,2001,64708.29
+Pengilon,Indonesia,2009,52230.9
+Huifeng,China,2012,82702.61
+La Charité-sur-Loire,France,1993,61102.43
+Otjiwarongo,Namibia,1993,102195.67
+Cruz de Pau,Portugal,1991,61867.15
+Harnoli,Pakistan,1993,130279.84
+Austin,United States,2003,75597.43
+Buynaksk,Russia,2003,80430.85
+Omiš,Croatia,2004,148023.9
+Jaraguá do Sul,Brazil,2003,61770.82
+Porangatu,Brazil,2005,111441.42
+Bugul’ma,Russia,1994,26894.72
+Empório,Greece,1998,121978.17
+Tuqiao,China,1996,77454.2
+Sumberan,Indonesia,1992,62498.48
+Kalbugan,Philippines,2006,87889.71
+Shingū,Japan,2011,146387.44
+Simapu,China,1988,136867.45
+Pamarayan,Indonesia,2002,83471.87
+Morcellemont Saint André,Mauritius,1995,35990.42
+Shanghe,China,2007,32743.04
+Lao Suea Kok,Thailand,2004,14165.23
+Chengkan,China,2006,107145.78
+Changtang,China,2004,14734.49
+Balice,Poland,1997,35448.02
+Sheksna,Russia,2009,129882.18
+Yangxu,China,2011,45687.35
+Tacna,Peru,2010,25068.06
+Wonokromo,Indonesia,1993,40299.31
+Majengo,Tanzania,2002,122946.72
+Huangcai,China,2002,41113.3
+Siedlce,Poland,1994,86739.78
+Lesozavodsk,Russia,2008,63912.46
+Revelstoke,Canada,2004,118033.88
+Ezeiza,Argentina,1998,35245.83
+Wahawaha,Indonesia,2004,19967.45
+Sake,Democratic Republic of the Congo,2008,81471.16
+Touguinha,Portugal,2001,104717.24
+Bangad,Philippines,2005,27800.81
+Koronowo,Poland,2010,86344.59
+Liudu,China,2010,55078.18
+Kuala Terengganu,Malaysia,1989,52845.52
+Doro Oo,Indonesia,2005,46656.08
+Chikeng,China,2004,31715.25
+Acevedo,Colombia,1999,52145.57
+El Paso,United States,2012,57377.35
+Sangju,South Korea,1993,93309.02
+Balahovit,Armenia,1993,71337.66
+Ottawa,Canada,1996,87203.0
+Rantepang,Indonesia,2012,95278.07
+Greensboro,United States,1994,141599.93
+Apucarana,Brazil,1998,89331.85
+Gunungkoneng,Indonesia,2005,17972.98
+Legen,Slovenia,2004,141925.41
+El Soberbio,Argentina,1992,143051.28
+São Julião do Tojal,Portugal,2000,107509.09
+Shibirghān,Afghanistan,2009,88721.55
+Kuching,Malaysia,2006,10322.45
+Kuantian,China,1989,65582.68
+Maliang,Indonesia,2004,16500.35
+Smålandsstenar,Sweden,2006,75682.26
+Julita,Philippines,2003,124765.8
+Banjarkemuning,Indonesia,2003,142305.2
+Xiaojinkou,China,1998,31456.35
+Przywidz,Poland,1993,45389.57
+Shuiyuan,China,2008,106706.34
+London,Canada,2011,125489.6
+Kimitsu,Japan,2012,16095.83
+Krahës,Albania,2003,108629.25
+Novyy Svit,Ukraine,1995,81256.32
+Ngaliyan,Indonesia,1993,144055.54
+Zelenchukskaya,Russia,2013,141619.83
+Lab,China,1998,101539.76
+Shuangmiaojie,China,1992,94101.31
+Tubarão,Brazil,1996,16228.64
+Villa Hayes,Paraguay,2010,15325.63
+Zvole,Czech Republic,2000,119390.85
+Saint-Malo,France,2006,71926.71
+Kirkkonummi,Finland,1998,40460.54
+Yao’an,China,1994,145305.85
+Liuji,China,1990,105314.92
+Lyon,France,1998,97362.74
+Tuanjie,China,2009,120932.9
+Quintas,Portugal,2010,146261.01
+Ash Shuqayrah,Yemen,2011,53835.8
+Oenaik,Indonesia,1985,89040.39
+Huyuan,China,1999,54526.44
+Geumpang,Indonesia,2010,69805.13
+Jefferson City,United States,2006,104447.19
+Yetang,China,2002,146794.88
+Além,Portugal,1999,108935.38
+Gelan,China,2007,145277.17
+Yuandianhui,China,2002,77450.68
+Le Havre,France,2011,109087.24
+Espinillo,Argentina,1992,78235.88
+Paleran,Indonesia,1997,33243.33
+Las Palmas,Spain,1989,21937.64
+Weligama,Sri Lanka,1995,144404.9
+Itamaraju,Brazil,2002,97047.81
+Huangli,China,2002,12534.51
+Xipi,China,2005,95257.45
+Kobeřice,Czech Republic,1994,58649.45
+Buenavista,Philippines,2011,16837.47
+Milwaukee,United States,1995,19302.21
+Íasmos,Greece,1994,67349.46
+Qianshan,China,2005,116487.12
+Arroyo Salado,Dominican Republic,2003,78927.37
+Wang Noi,Thailand,2010,19649.46
+Kyustendil,Bulgaria,2009,64950.66
+La Unión,Guatemala,2005,50051.11
+Faaa,French Polynesia,1995,95972.6
+Legaspi,Philippines,2009,126179.11
+Vodnjan,Croatia,2008,123368.57
+Tosno,Russia,2009,61547.69
+N’dalatando,Angola,2006,126637.2
+Baiju,China,1992,114352.76
+Fatukanutu,Indonesia,2010,55574.99
+Billère,France,1987,94171.2
+Santa,Peru,2006,125742.79
+Zhengji,China,1985,45829.76
+Ochojno,Poland,2011,146590.61
+Kassiri,Sierra Leone,1992,28927.7
+Thị Trấn Na Sầm,Vietnam,1994,92911.34
+Dikhil,Djibouti,2005,46766.54
+Cimanggu Girang,Indonesia,2006,19053.78
+Toužim,Czech Republic,1963,134271.48
+Lào Cai,Vietnam,1992,121835.7
+Ciwaru,Indonesia,1994,81163.16
+Tanlin,China,2008,12468.99
+Khashuri,Georgia,1997,114636.29
+Janagdong,Philippines,2009,79546.48
+Goúvai,Greece,2011,95549.58
+Bamenda,Cameroon,2000,48491.95
+Novozybkov,Russia,2012,77052.59
+Lakkha Nëvre,Russia,2001,68218.13
+Ningyang,China,2006,49464.5
+Los Angeles,United States,1998,37671.63
+Mikhaylovskoye,Russia,2003,117050.02
+Santa Ana,Argentina,2011,73369.59
+Acatenango,Guatemala,1992,133731.23
+Mabuttal East,Philippines,1997,135506.29
+Santa Cecilia,Mexico,1992,38855.1
+Azacualpa,Honduras,1996,90606.5
+Pueai Noi,Thailand,1993,23175.21
+Kyosai,South Korea,2003,17866.07
+Sandaohezi,China,2003,74058.77
+Baturyn,Ukraine,2004,83047.46
+Khorramdarreh,Iran,2008,53575.18
+Embalse,Argentina,1993,67637.48
+Omaha,United States,1992,77149.7
+Mlandizi,Tanzania,2009,36164.99
+Kalabo,Zambia,2004,144618.93
+Pamarayan,Indonesia,1999,11458.71
+Sairam,China,2006,122082.11
+Xinzheng,China,1998,111230.76
+Turets-Bayary,Belarus,1997,93418.13
+Kefar Tavor,Israel,2005,114389.22
+Paicol,Colombia,2011,83044.01
+Hacı Zeynalabdin,Azerbaijan,2009,107631.7
+Phong Điền,Vietnam,1992,31796.4
+Acajutla,El Salvador,1995,141764.59
+Modřice,Czech Republic,1989,72578.46
+Vällingby,Sweden,1997,79540.16
+Cambuga,Philippines,2009,65979.87
+Ettal,Micronesia,1999,45852.06
+Adir,Jordan,2010,29071.68
+Tukan,Russia,1992,11701.17
+Haduohe,China,2004,87355.96
+Sendafa,Ethiopia,2009,26430.4
+Villa Regina,Argentina,1997,114629.87
+Östersund,Sweden,2008,125286.02
+Lyeskawka,Belarus,2006,17057.75
+Kadubera,Indonesia,2008,118902.47
+Yuandun,China,2003,102265.67
+Pura,Philippines,2011,92741.32
+Lagoa do Itaenga,Brazil,2007,30696.98
+Būsh,Egypt,1994,95190.21
+Hepu,China,1986,62378.53
+Gambarjati,Indonesia,2011,77839.24
+Tokushima-shi,Japan,2002,35495.81
+Mārupe,Latvia,2012,79485.68
+Hexi,China,2011,132562.66
+Bantarsari Kulon,Indonesia,2003,107864.4
+Rejanegara,Indonesia,2006,141352.16
+Yerofey Pavlovich,Russia,2011,125097.81
+Novokuz’minki,Russia,2008,130393.12
+Milaor,Philippines,2002,20946.72
+Noyemberyan,Armenia,2000,110571.35
+Haduohe,China,2005,51559.48
+Piedra Blanca,Dominican Republic,2012,129073.1
+Oenopu,Indonesia,2000,74135.36
+Zhengdonglu,China,2003,61974.71
+Changling,China,2003,46960.35
+Surovikino,Russia,2010,122739.21
+Cambrai,France,1993,43230.87
+Detchino,Russia,1994,41845.68
+Luklukan,Philippines,1993,63092.92
+Shushenskoye,Russia,1994,130911.54
+Ustrzyki Dolne,Poland,1995,15600.78
+La Curva,Philippines,1997,78150.46
+Belo,Cameroon,2009,136627.54
+Malax,Finland,2008,33392.58
+Borehbangle,Indonesia,1989,78900.56
+Yingtan,China,2006,67761.64
+El Nido,Philippines,2010,45717.28
+Catolé do Rocha,Brazil,1996,90138.41
+Saparua,Indonesia,2009,24180.28
+Shuhong,China,1993,35281.24
+Poddor’ye,Russia,2007,75944.4
+Jinguoping,China,2001,29584.1
+Bambor,Indonesia,2007,20370.52
+Chengdong,China,2001,145112.83
+Kutamandarakan,Indonesia,1993,23208.87
+Ozerki,Russia,2012,48445.58
+El Hamma,Tunisia,2000,132945.7
+Pridonskoy,Russia,2013,97079.44
+Güira de Melena,Cuba,2002,25334.72
+Cartago,Costa Rica,2005,99083.16
+La Poma,Argentina,1998,55306.46
+Sabang,Indonesia,1995,77501.26
+Xinyi,China,2005,133916.38
+Beiyang,China,1999,132040.16
+Talok,Indonesia,2009,11747.5
+Bielawy,Poland,1966,54321.25
+Guodu,China,2000,119361.11
+Balakliya,Ukraine,2009,137178.0
+Xinshidu,China,2005,112484.46
+Sosándra,Greece,1989,40105.96
+Pontevedra,Spain,1985,121234.93
+Daqin Tal,China,2000,91861.62
+Atipuluhan,Philippines,1997,145505.25
+Sokyryany,Ukraine,2009,30674.35
+Toulouse,France,2001,31045.66
+Sollefteå,Sweden,1997,102360.32
+Maoping,China,1998,22973.39
+Punta Gorda,United States,2003,76492.6
+Gandi,Nigeria,2010,58170.18
+Rovnoye,Russia,2009,40120.62
+São Tomé,Portugal,2012,122671.03
+Lyaskelya,Russia,2008,22595.46
+Ambato,Ecuador,1993,99938.71
+Katwijk,Netherlands,1994,94285.88
+Merdeka,Indonesia,2001,33387.86
+La Sebala du Mornag,Tunisia,2002,14461.2
+Taochuan,China,1995,74062.66
+Velingrad,Bulgaria,2002,141684.18
+Ketapang,Indonesia,2002,138520.8
+Aībak,Afghanistan,1989,82334.36
+Concórdia,Brazil,1999,55700.78
+Mat-i,Philippines,1984,123324.66
+Kambove,Democratic Republic of the Congo,2006,145681.09
+Tibiri,Niger,1986,110892.68
+Ḩalāwah,Jordan,1993,42203.5
+Strazhitsa,Bulgaria,2000,72176.99
+Houzhai,China,1989,46000.65
+Ar Rābiyah,Kuwait,2010,39826.91
+Shuishaping,China,1997,51188.52
+San Jose,United States,1998,67348.12
+Fushan,China,2001,14495.96
+Xingxi,China,2001,73019.0
+Tiebukenwusan,China,2010,108396.57
+Nordeste,Portugal,1985,29896.15
+Nawá,Syria,1994,102285.39
+Stockholm,Sweden,2009,117474.77
+Marfino,Russia,1993,124344.01
